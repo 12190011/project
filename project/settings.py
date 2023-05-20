@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-&bwjgxrec!dqh-r!pn8*!ly)&g!92(#=7^r384@o47@22t-#77
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Nimaproject.pythonanywhere.com']
 
 
 # Application definition
